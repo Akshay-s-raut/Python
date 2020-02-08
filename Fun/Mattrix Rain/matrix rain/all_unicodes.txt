@@ -1,0 +1,66 @@
+C0	U+0000	0	Null character	NUL
+C0	U+0001	1	Start of Heading	SOH
+C0	U+0002	2	Start of Text	STX
+C0	U+0003	3	End-of-text character	ETX
+C0	U+0004	4	End-of-transmission character	EOT
+C0	U+0005	5	Enquiry character	ENQ
+C0	U+0006	6	Acknowledge character	ACK
+C0	U+0007	7	Bell character	BEL
+C0	U+0008	8	Backspace	BS
+C0	U+0009	9	Horizontal tab	HT
+C0	U+000A	10	Line feed	LF
+C0	U+000B	11	Vertical tab	VT
+C0	U+000C	12	Form feed	FF
+C0	U+000D	13	Carriage return	CR
+C0	U+000E	14	Shift Out	SO
+C0	U+000F	15	Shift In	SI
+C0	U+0010	16	Data Link Escape	DLE
+C0	U+0011	17	Device Control 1	DC1
+C0	U+0012	18	Device Control 2	DC2
+C0	U+0013	19	Device Control 3	DC3
+C0	U+0014	20	Device Control 4	DC4
+C0	U+0015	21	Negative-acknowledge character	NAK
+C0	U+0016	22	Synchronous Idle	SYN
+C0	U+0017	23	End of Transmission Block	ETB
+C0	U+0018	24	Cancel character	CAN
+C0	U+0019	25	End of Medium	EM
+C0	U+001A	26	Substitute character	SUB
+C0	U+001B	27	Escape character	ESC
+C0	U+001C	28	File Separator	FS
+C0	U+001D	29	Group Separator	GS
+C0	U+001E	30	Record Separator	RS
+C0	U+001F	31	Unit Separator	US
+U+007F	127	Delete	DEL
+C1	U+0080	128	Padding Character	PAD
+C1	U+0081	129	High Octet Preset	HOP
+C1	U+0082	130	Break Permitted Here	BPH
+C1	U+0083	131	No Break Here	NBH
+C1	U+0084	132	Index	IND
+C1	U+0085	133	Next Line	NEL
+C1	U+0086	134	Start of Selected Area	SSA
+C1	U+0087	135	End of Selected Area	ESA
+C1	U+0088	136	Character Tabulation Set	HTS
+C1	U+0089	137	Character Tabulation with Justification	HTJ
+C1	U+008A	138	Line Tabulation Set	VTS
+C1	U+008B	139	Partial Line Forward	PLD
+C1	U+008C	140	Partial Line Backward	PLU
+C1	U+008D	141	Reverse Line Feed	RI
+C1	U+008E	142	Single-Shift Two	SS2
+C1	U+008F	143	Single-Shift Three	SS3
+C1	U+0090	144	Device Control String	DCS
+C1	U+0091	145	Private Use 1	PU1
+C1	U+0092	146	Private Use 2	PU2
+C1	U+0093	147	Set Transmit State	STS
+C1	U+0094	148	Cancel character	CCH
+C1	U+0095	149	Message Waiting	MW
+C1	U+0096	150	Start of Protected Area	SPA
+C1	U+0097	151	End of Protected Area	EPA
+C1	U+0098	152	Start of String	SOS
+C1	U+0099	153	Single Graphic Character Introducer	SGCI
+C1	U+009A	154	Single Character Intro Introducer	SCI
+C1	U+009B	155	Control Sequence Introducer	CSI
+C1	U+009C	156	String Terminator	ST
+C1	U+009D	157	Operating System Command	OSC
+C1	U+009E	158	Private Message	PM
+C1	U+009F	159	Application Program Command	APC
+
